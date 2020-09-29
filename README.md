@@ -4,9 +4,10 @@
 https://github.com/yshastri66/sketch_yourself.git
 ```
 ### Create a new python environment and install the requirments using requirment.txt file by executing following commands : 
-``` conda create -n env_name
-    conda activate env_name
-    pip install -r requirment.txt
+``` 
+conda create -n env_name
+conda activate env_name
+pip install -r requirment.txt
 ```
 
 ### You can draw yourself like an artist by just running one command in your terminal or Anaconda prompt :
